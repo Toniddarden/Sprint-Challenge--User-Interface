@@ -215,16 +215,25 @@ footer nav a {
 /* two-boxes */  /* bottom-boxes */
 
  .two-boxes {
-    display: flex;
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 10px; */
+    border-bottom: 1px solid black;
+	display: flex;
 	flex-wrap: wrap;
-	flex-direction: row;
-	padding-top: 10px;
+	justify-content: space-evenly;
+	margin: 0px;
+    padding: 40px;	
+    padding-right: 500px;
+
  }
 
  .strategy-work {
     width: 400px;
 	padding: 20px;
-	padding-bottom: 60px;
+    padding-bottom: 60px;
+    border-bottom: 2px dotted black;
  }
 
  .strategy-work button {
@@ -238,5 +247,14 @@ footer nav a {
 .two-boxes h1 {
     padding-top: 20px;
 }
+
+ /* footer */
+
+ .footer-nav {
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    font-size: 14px;
+ }
 
  
