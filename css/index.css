@@ -212,14 +212,13 @@ footer nav a {
      padding-bottom: 20px;
  }
 
-/* two-boxes */
+/* two-boxes */  /* bottom-boxes */
 
  .two-boxes {
     display: flex;
 	flex-wrap: wrap;
 	flex-direction: row;
-	margin: 80px;
-	padding: 90px;
+	padding-top: 10px;
  }
 
  .strategy-work {
@@ -227,3 +226,17 @@ footer nav a {
 	padding: 20px;
 	padding-bottom: 60px;
  }
+
+ .strategy-work button {
+     border: 2px black solid;
+     background-color: white;
+     font-size: 15px;
+     padding: 10px;
+     margin-top: 20px;
+ }
+
+.two-boxes h1 {
+    padding-top: 20px;
+}
+
+ 
