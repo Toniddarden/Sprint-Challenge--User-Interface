@@ -34,13 +34,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is an organized structured form of HTML. Think about a dinner menu, it's usually set up by appetizers, soups/salads, main course, and dessert and sometimes drinks. Now imagine getting that dinner menu without it organized in that specific order ie. the caesar salad next to the apple pie. Semantic HTML is an organized dinner menu. 
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Display: block; starts each new element on a new line, display: inline; does not. 
+
 
 3. What are the 4 areas of the box model?
 
+Content, padding, margin, border
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+Horizontal 
+
 5. Explain why git is valuable to a team of developers.
+
+It helps developers develop and keep track of their code and changes within their code. Its most helpful during a large group project, every change and commit is crucial. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -104,3 +115,12 @@ After finishing your required elements, you can push your work further. These go
 * [ ] Introduce CSS animations to your site.
 * [ ] Build a contact page and create a form with several inputs of your choosing
 * [ ] Add responsive breakpoints to your code by using media queries
+
+
+
+
+
+
+
+
+
