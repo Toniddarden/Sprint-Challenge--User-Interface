@@ -112,6 +112,9 @@ p {
     justify-content: center;
 }
 
+
+
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -144,3 +147,104 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* <!-- logo and nav-bar --> */
+
+ .header {
+    word-spacing: 50px;
+	margin-top: 35px;
+	padding-left: 160px;
+	display: flex;
+	align-items: flex-start;
+ }
+
+ .nav-bar nav {
+     padding: 20px;
+     word-spacing: 60px;
+  
+ }
+
+ .nav-bar nav a {
+    margin: 15px;
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+    
+ }
+
+ .jumbo-img {
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding-left: 160px;
+ }
+
+ /* about nav-bar header  */
+
+ .about-header {
+    word-spacing: 50px;
+	margin-top: 35px;
+	padding-left: 0px;
+	display: flex;
+	align-items: flex-start;
+ }
+
+ .about-nav-bar nav {
+     padding: 20px;
+     word-spacing: 60px;
+ }
+
+ .about-nav-bar nav a {
+    margin: 15px;
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+    
+ }
+
+.jumbo-about {
+     margin-top: 20px;
+     margin-bottom: 20px;
+ } 
+
+ .about-section {
+     border-bottom: 2px dotted black;
+     padding-bottom: 20px;
+ }
+
+/* two-boxes */  /* bottom-boxes */
+
+ .two-boxes {
+    display: flex;
+    flex-wrap: nowrap;
+ 
+ }
+
+ .strategy-work {
+    padding: 20px;
+    border-bottom: 2px dotted black;
+    width: 420px;
+    margin: 20px 0px;
+ }
+
+ .strategy-work button {
+     border: 2px black solid;
+     background-color: white;
+     font-size: 15px;
+     padding: 10px;
+     margin-top: 20px;
+ }
+
+.two-boxes h1 {
+    padding-top: 20px;
+}
+
+ /* footer */
+
+ .footer-nav {
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    font-size: 14px;
+ }
+
+ 
