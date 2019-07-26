@@ -228,9 +228,10 @@ footer nav a {
 
  .strategy-work button {
      border: 2px black solid;
+     border-radius: 10px;
      background-color: white;
      font-size: 15px;
-     padding: 10px;
+     padding: 10px 50px 10px 50px;
      margin-top: 20px;
  }
 
@@ -240,11 +241,58 @@ footer nav a {
 
  /* footer */
 
- .footer-nav {
+.footer-nav {
     display: flex;
     align-items: center;
-    padding-left: 15px;
     font-size: 14px;
+    width: 840px;
  }
 
+
+ /* box colors w/o inline styling practice  */
+ /* .boxes {
+    width: 12.5%;
+    height: 100px;
+    background: black;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}  */
+
+
+
+ /* .box0 {
+background-color: teal;
+
+ } 
  
+ .box1 {
+    background-color: gold;
+}
+.box2 {
+    background-color: cadetblue;
+}
+.box3 {
+    background-color: coral;
+}
+.box4 {
+    background-color: crimson;
+}
+.box5 {
+    background-color: forestgreen;
+}
+.box6 {
+    background-color: darkorchid;
+}
+.box7 {
+    background-color: hotpink;
+}
+.box8 {
+    background-color: indigo;
+}
+.box9 {
+    background-color: dodgerblue;
+} */
+
